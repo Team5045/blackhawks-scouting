@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "heading": "bobot - 2024",
   "logo": "firebot.png",
+=======
+  "heading": "Crescendo - 2024",
+  "logo": "logo.png",
+>>>>>>> refs/remotes/origin/main
   "pages": [
     {
       "name": "Setup",
